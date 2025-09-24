@@ -1,0 +1,18 @@
+# Jupiter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+env/
+venv/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Large Outputs (uncomment if needed)
+# outputs/*.png
+# outputs/*.pkl
