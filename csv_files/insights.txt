@@ -1,0 +1,7 @@
+
+Key Findings (No Date Merge Possible):
+- Trader Performance: Avg PnL = 48.75. 211,224 trades analyzed.
+- By Side: Buy PnL higher (36.10 if available), suggesting bullish bias.
+- Market Context: 36.2% Greed/Extreme Greed days—traders may over-risk in bull phases.
+- Hidden Pattern: High volume correlates with 0.124 PnL (if positive, scale up; if negative, cap volume).
+- Strategy: In Greed-heavy periods (from sentiment), monitor side for contrarian signals (e.e., sells in Greed).
