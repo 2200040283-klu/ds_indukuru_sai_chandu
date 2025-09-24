@@ -1,7 +1,7 @@
 # Web3 Trading Team Assignment: Trader Behavior Insights
 
 **Candidate:** INDUKURU SAI CHANDU  
-**Date:** September 24, 2025  
+**Date:** September 25, 2025  
 **Overview:** Analyzed Hyperliquid historical trader data against Bitcoin Fear/Greed sentiment. Due to missing timestamps, focused on aggregate patterns (e.g., leverage-PnL correlation). Uncovered insights like negative risk-profit links for smarter strategies (e.g., cap leverage in Greed phases). As a recent data science bootcamp graduate passionate about blockchain, this demonstrates Python EDA skills for Web3 trading.
 
 ## Setup and Reproduction
@@ -43,3 +43,4 @@
 
 This demonstrates data cleaning, analysis, and Web3-relevant insights. 
 Resume attached in application email. Contact: saichanduindukuru@gmail.com | +919963446974. Eager for interview!
+
